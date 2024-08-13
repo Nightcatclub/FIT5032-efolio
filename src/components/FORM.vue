@@ -114,7 +114,6 @@ const clearForm = () => {
 </script>
 
 <style scoped>
-/* 原有样式 */
 .card {
   border: 1px solid #ccc;
   border-radius: 10px;
