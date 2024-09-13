@@ -18,10 +18,14 @@
             Firebase register
           </router-link>
         </li>
-
         <li class="nav.item">
           <router-link to="/Firelogin" class="nav-link" active-class="active">
             Firebase Login
+          </router-link>
+        </li>
+        <li class="nav.item">
+          <router-link to="/addbook" class="nav-link" active-class="active">
+            Add-books
           </router-link>
         </li>
       </ul>
