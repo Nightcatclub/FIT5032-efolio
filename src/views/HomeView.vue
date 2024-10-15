@@ -169,7 +169,7 @@ const validateReason = (blur) => {
             </div>
           </div>
           <div class="mb-3">
-            <label for="reason" class="form-label">Reason for joining</label>
+            <label for="reason" class="form-label">Reason for Joining</label>
             <textarea
               class="form-control"
               id="reason"
